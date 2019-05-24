@@ -1,0 +1,4 @@
+makrdown: redcarpet
+baseurl: /pururing
+exclude: ['README.md']
+
