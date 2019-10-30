@@ -1,3 +1,4 @@
+name: foo
 markdown: kramdown
 baseurl: /unagi0503-jk-tb
 exclude: ['README.md']
